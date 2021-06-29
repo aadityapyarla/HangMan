@@ -12,3 +12,4 @@ node_modules
 
 # Ignore SASS config files
 .idea
+__pycache__/
